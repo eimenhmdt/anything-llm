@@ -36,7 +36,7 @@ export default function GeneralExportImport() {
               instances.
             </p>
             <a
-              href={`${paths.mailToMintplex()}?Subject=Import/Export disabled on hosted AnythingLLM.`}
+              href={`${paths.mailToAimenLabs()}?Subject=Import/Export disabled on hosted AnythingLLM.`}
               className="text-blue-300 hover:underline"
             >
               Contact Mintplex Labs Inc.

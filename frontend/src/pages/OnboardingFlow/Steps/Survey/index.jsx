@@ -79,7 +79,7 @@ export default function Survey({ setHeader, setForwardBtn, setBackBtn }) {
             <CheckCircle size={60} className="text-green-500" />
             <p className="text-white text-lg">Thank you for your feedback!</p>
             <a
-              href={paths.mailToMintplex()}
+              href={paths.mailToAimenLabs()}
               className="text-sky-400 underline text-xs"
             >
               team@mintplexlabs.com
