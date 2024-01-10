@@ -45,7 +45,7 @@ export default {
   docs: () => {
     return "https://docs.useanything.com";
   },
-  mailToMintplex: () => {
+  mailToAimenLabs: () => {
     return "mailto:eimen@aietal.com";
   },
   hosting: () => {
